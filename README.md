@@ -1,3 +1,3 @@
 # First_Repo
 <br>
-Name: Rakesh
+Repository Type: Demo
